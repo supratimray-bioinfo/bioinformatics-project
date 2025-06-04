@@ -1,0 +1,11 @@
+SampleID	shotgun.SampleID	description	Gender	Age	SampleType	antibiotics	probiotics	PPI	biologic	immunomodulator	current.steroid.use	ASA	group
+SRR15702538	SM030818.132	PT#8	m	16	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702537	SM030818.133	PT#9	f	16	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702536	SM030818.134	PT#11	f	14	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702535	SM030818.135	PT#12	f	10	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702534	SM030818.136	PT#16	f	10	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702532	SM030818.138	PT#23	m	15	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702531	SM030818.139	PT#28	f	14	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702530	SM030818.140	PT#36	f	15	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702529	SM030818.141	PT#40	m	11	Healthy	no	no	no	no	no	no	no	Healthy
+SRR15702528	SM030818.142	PT#52	f	13	Healthy	no	no	no	no	no	no	no	Healthy
